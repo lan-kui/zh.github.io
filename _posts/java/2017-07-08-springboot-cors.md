@@ -1,8 +1,8 @@
 ---
 layout: post
-title: git command
+title: springboot cors
 date: 2017-07-08
-categories: java
+category: java
 description: 阅读
 ---
 
