@@ -52,7 +52,7 @@
                     </li>
                     {% endif %}
                     -->
-
+                    <!--
                     {% if site.zhihu_username %}
                     <li>
                         <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
@@ -63,6 +63,7 @@
                         </a>
                     </li>
                     {% endif %}
+                    -->
                     <!--
                     {% if site.weibo_username %}
                     <li>
@@ -77,6 +78,9 @@
                     -->
 
                 </ul>
+                <p class="copyright text-muted">
+                    &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
+                </p>
             </div>
         </div>
     </div>
