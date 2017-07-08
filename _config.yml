@@ -1,15 +1,15 @@
 # Site settings
-title: 读立写生
+title: 坚持
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "Mark|坚持"  
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " Mark"
+  email: 95456391@qqcom
   bio: "写就是写的报酬"
 
 # Data
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Chengdu
 
 # Defaults for posts
 defaults:
