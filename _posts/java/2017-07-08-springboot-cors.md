@@ -3,7 +3,8 @@ layout: post
 title: springboot cors
 date: 2017-07-08
 category: java
-description: 阅读
+tags: [springboot]
+description: the spring boot cors config
 ---
 #springboot cors
 ```
