@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Java
+title: java
 ---
-
+{{%paginator.posts%}}
 
 {% for post in paginator.posts %}
     {% if post.categories.java %}
