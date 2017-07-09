@@ -5,7 +5,8 @@ date: 2017-07-08
 category: java
 description: 阅读
 ---
-
+#springboot cors
+```
 @Bean
 public FilterRegistrationBean corsFilter() {
     UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
@@ -19,3 +20,4 @@ public FilterRegistrationBean corsFilter() {
     bean.setOrder(0);
     return bean;
 }
+```
